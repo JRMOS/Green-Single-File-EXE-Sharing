@@ -1,0 +1,21 @@
+Share some of my commonly used software and package it into a single file. They are the original without modification.
+
+Packaging principle of single file = after double clicking to open, the background will automatically decompress and then execute the file. After closing the window, the background and cache files will also be cleared and deleted, so there will be no saved to the previous cache in the next run. (for browser and other requirements that need to remember the last configuration, there will be versions that will not be deleted and released.)
+
+把一些我自己常用的软件分享，并且封装制作成单文件的形式。都是原版无修改。
+单文件的封装制作原理=双击打开后，后台自动解压然后执行文件，关闭窗口后则把后台与及缓存文件也清空删除，所以下次运行时也不会有保存到之前的缓存。（对于浏览器之类需要记忆上一次配置的需求，会有制作不删除释放的版本。）
+
+Download tools
+下载工具
+
+System application
+系统应用
+
+browser
+浏览器
+
+Video & Audio program
+影音程序
+
+Image processing
+图片处理
